@@ -6,3 +6,4 @@ public class TestPersonnages {
 		System.out.println(asterix.getNom());
 	}
 }
+ 
